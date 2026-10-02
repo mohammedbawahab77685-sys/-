@@ -1,0 +1,17 @@
+name: mcpe_mod_manager
+description: "A new Flutter project for MCPE Mod Manager"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  permission_handler: ^11.3.1
+  archive: ^3.6.1
+
+flutter:
+  uses-material-design: true
+  
